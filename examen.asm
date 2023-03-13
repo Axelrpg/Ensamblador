@@ -1,0 +1,1 @@
+;Pedir al usuario dos numeros enteros positivos, ademas de un simbolo que represente la operacion y que te devuelva el resultado, en ensamblador (asm)
