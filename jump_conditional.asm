@@ -28,7 +28,8 @@ _start:
 
     mov ebx, 2
     mov edx, 0
-    mov eax, numero
+    mov eax, [numero]
+    sub eax, 48
 
     cmp ebx, 0
     je escero
