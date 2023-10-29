@@ -1,0 +1,3 @@
+nasm -f elf64 -o reto1.o reto1.asm 
+ld -s -o reto1 reto1.o
+./reto1
